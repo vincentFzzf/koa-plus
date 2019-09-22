@@ -1,0 +1,29 @@
+{
+  "name": "koa-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentFzzf/koa-plus.git"
+  },
+  "keywords": [
+    "koa",
+    "typescript"
+  ],
+  "author": "vincent.fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentFzzf/koa-plus/issues"
+  },
+  "homepage": "https://github.com/vincentFzzf/koa-plus#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "nodemon": "^1.19.2",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  }
+}

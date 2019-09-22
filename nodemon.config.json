@@ -1,0 +1,14 @@
+{
+    "restartable": "rs",
+    "delay": "1000",
+    "ignore": [
+      "app/public/dist/**/*"
+    ],
+    "execMap": {
+      "ts": "ts-node --files true"
+    },
+    "watch": [
+      "app/**/*.ts"
+    ],
+    "ext": "ts,json"
+  }
